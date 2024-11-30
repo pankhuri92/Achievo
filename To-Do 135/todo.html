@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>To-Do Lists</title>
+</head>
+<body>
+  <h1>To-Do Lists</h1>
+
+  <div class="container">
+    <div class="list">
+      <h2>Important Tasks</h2>
+      <ul id="important-list"></ul>
+      <input type="text" id="important-task" placeholder="Add an important task">
+      <button onclick="addItem('important')">Add</button>
+    </div>
+    <div class="list">
+      <h2>Medium Tasks</h2>
+      <ul id="medium-list"></ul>
+      <input type="text" id="medium-task" placeholder="Add a medium task">
+      <button onclick="addItem('medium')">Add</button>
+    </div>
+    <div class="list">
+      <h2>Not-So-Urgent Tasks</h2>
+      <ul id="not-so-urgent-list"></ul>
+      <input type="text" id="not-so-urgent-task" placeholder="Add a not-so-urgent task">
+      <button onclick="addItem('not-so-urgent')">Add</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
