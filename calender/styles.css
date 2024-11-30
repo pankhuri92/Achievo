@@ -1,0 +1,117 @@
+
+body, h1, h2, h3, p, ul, li, table, tr, th, td, form {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e186f4;
+    color: #fff; 
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    margin: 2rem;
+}
+
+
+.calendar {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.calendar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e186f4; 
+    color: #fff; 
+    padding: 0.5rem;
+    border-radius: 5px 5px 0 0;
+}
+
+#prev-month, #next-month {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #fff;
+    cursor: pointer;
+}
+
+#current-month {
+    font-size: 1.2rem;
+}
+
+
+.calendar-grid {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.calendar-grid th, .calendar-grid td {
+    width: 14.2857%; 
+    padding: 0.5rem;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.calendar-grid th {
+    background-color: #e186f4; 
+    color: #fff; 
+}
+
+
+.event-form {
+    background-color: #fff; 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.event-form h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input[type="text"],
+input[type="date"],
+textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #e186f4; 
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e186f4; 
+}
