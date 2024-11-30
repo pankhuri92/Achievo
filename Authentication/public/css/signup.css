@@ -1,0 +1,48 @@
+/* Sign Up Form */
+.signup-form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    box-align: center;
+  }
+  
+  /* Input Fields */
+  input {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  input:focus {
+    outline: none;
+    border-color: #000;
+  }
+  
+  /* Button */
+  button {
+    width: 100%;
+    background-color:purple;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Already Have an Account Link */
+  a {
+    color: lightskyblue;
+    text-decoration: none;
+    font-size: 12px;
+    float: right;
+  }
