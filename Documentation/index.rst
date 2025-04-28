@@ -26,9 +26,7 @@ The primary objective of Achievo is to provide users with a set of valuable tool
    Achievo goes beyond the basic productivity tools and offers dedicated feature pages for advanced techniques such as the Eisenhower Matrix, Hour Rule, and Motivational Wheel. These strategies are designed to empower you with valuable insights and techniques for personal development and goal achievement.
 
 5. Eisenhower Matrix
------------------
-
-The Eisenhower Matrix, also known as the Eisenhower Decision Matrix, is a time management technique that helps users prioritize tasks based on their urgency and importance. It divides tasks into four quadrants:
+   The Eisenhower Matrix, also known as the Eisenhower Decision Matrix, is a time management technique that helps users prioritize tasks based on their urgency and importance. It divides tasks into four quadrants:
 
 - **Urgent and Important:** Tasks that require immediate attention and are crucial for achieving goals.
 - **Important but Not Urgent:** Tasks that are significant but can be scheduled for later.
@@ -38,16 +36,12 @@ The Eisenhower Matrix, also known as the Eisenhower Decision Matrix, is a time m
 By categorizing tasks using the Eisenhower Matrix, users can focus on what matters most and manage their time efficiently.
 
 6. Hour Rule
----------
-
-The Hour Rule is a time management principle that suggests dedicating focused, uninterrupted time to a specific task for one hour. During this hour, users eliminate distractions and immerse themselves fully in the task at hand. By adopting this technique, individuals can achieve a state of deep focus, known as "flow," leading to increased productivity and better outcomes.
+   The Hour Rule is a time management principle that suggests dedicating focused, uninterrupted time to a specific task for one hour. During this hour, users eliminate distractions and immerse themselves fully in the task at hand. By adopting this technique, individuals can achieve a state of deep focus, known as "flow," leading to increased productivity and better outcomes.
 
 To apply the Hour Rule to a task, you can use the following function in your code:
 
 7. Motivational Wheel
-------------------
-
-The Motivational Wheel is a tool designed to help users identify and understand their core motivations and personal values in different aspects of life. The wheel typically includes key life aspects, such as career, relationships, health, and personal growth.
+   The Motivational Wheel is a tool designed to help users identify and understand their core motivations and personal values in different aspects of life. The wheel typically includes key life aspects, such as career, relationships, health, and personal growth.
 
 To add motivations to the Motivational Wheel, you can use the following function in your code:
 
