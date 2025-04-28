@@ -33,17 +33,17 @@ The primary objective of Achievo is to provide users with a set of valuable tool
 - **Urgent but Not Important:** Tasks that demand immediate action but have little impact on long-term objectives.
 - **Neither Urgent nor Important:** Tasks that are trivial and can be eliminated or delegated.
 
-By categorizing tasks using the Eisenhower Matrix, users can focus on what matters most and manage their time efficiently.
+   By categorizing tasks using the Eisenhower Matrix, users can focus on what matters most and manage their time efficiently.
 
 6. Hour Rule
    The Hour Rule is a time management principle that suggests dedicating focused, uninterrupted time to a specific task for one hour. During this hour, users eliminate distractions and immerse themselves fully in the task at hand. By adopting this technique, individuals can achieve a state of deep focus, known as "flow," leading to increased productivity and better outcomes.
 
-To apply the Hour Rule to a task, you can use the following function in your code:
+   To apply the Hour Rule to a task, you can use the following function in your code:
 
 7. Motivational Wheel
    The Motivational Wheel is a tool designed to help users identify and understand their core motivations and personal values in different aspects of life. The wheel typically includes key life aspects, such as career, relationships, health, and personal growth.
 
-To add motivations to the Motivational Wheel, you can use the following function in your code:
+   To add motivations to the Motivational Wheel, you can use the following function in your code:
 
 
 Repository Structure
