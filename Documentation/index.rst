@@ -4,7 +4,7 @@ Achievo - Your Path to Success
 Introduction
 ------------
 
-Hello everyone, I am Anushka Shankar, and together with my talented teammates, we proudly present Achievo. In today's fast-paced and demanding world, maintaining focus, staying organized, and remaining motivated can prove to be quite challenging. We all have ambitious goals and important tasks to accomplish, but the constant battle with procrastination often hinders our progress and causes us to overlook crucial responsibilities.
+In today's fast-paced and demanding world, maintaining focus, staying organized, and remaining motivated can prove to be quite challenging. We all have ambitious goals and important tasks to accomplish, but the constant battle with procrastination often hinders our progress and causes us to overlook crucial responsibilities.
 
 Achievo is a user-centric web application meticulously crafted to propel you towards success by enhancing your focus, motivation, and productivity. With an array of powerful features and a thoughtful design, Achievo aims to empower you in achieving your dreams and making progress in all aspects of life.
 
